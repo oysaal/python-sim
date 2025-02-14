@@ -1,0 +1,56 @@
+{
+  "Cadet": [
+    {
+      "type": "IALA Lateral",
+      "scenario": "Green conical buoy to starboard",
+      "options": ["Keep starboard", "Keep port", "Pass close"],
+      "correct": 0,
+      "rule": "IALA-A Rule 1",
+      "visual": "buoy_green.png"
+    },
+    {
+      "type": "COLREGs Lights",
+      "scenario": "Red-over-white-over-red lights",
+      "options": ["Fishing", "Dredging", "Towing"],
+      "correct": 1,
+      "rule": "COLREG Annex I",
+      "visual": "lights_dredging.png"
+    }
+  ],
+  "OOW": [
+    {
+      "type": "IALA Lateral",
+      "scenario": "Green conical buoy to starboard",
+      "options": ["Keep starboard", "Keep port", "Pass close"],
+      "correct": 0,
+      "rule": "IALA-A Rule 1",
+      "visual": "buoy_green.png"
+    },
+    {
+      "type": "COLREGs Lights",
+      "scenario": "Red-over-white-over-red lights",
+      "options": ["Fishing", "Dredging", "Towing"],
+      "correct": 1,
+      "rule": "COLREG Annex I",
+      "visual": "lights_dredging.png"
+    }
+  ],
+  "Master": [
+    {
+      "type": "IALA Lateral",
+      "scenario": "Green conical buoy to starboard",
+      "options": ["Keep starboard", "Keep port", "Pass close"],
+      "correct": 0,
+      "rule": "IALA-A Rule 1",
+      "visual": "buoy_green.png"
+    },
+    {
+      "type": "COLREGs Lights",
+      "scenario": "Red-over-white-over-red lights",
+      "options": ["Fishing", "Dredging", "Towing"],
+      "correct": 1,
+      "rule": "COLREG Annex I",
+      "visual": "lights_dredging.png"
+    }
+  ]
+}
